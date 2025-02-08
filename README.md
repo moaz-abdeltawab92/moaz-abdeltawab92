@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **moazayman128@gmail.com**
 
-- 👨‍💻 Check out my portfolio: [bit.ly/3CxZohA](bit.ly/3CxZohA)
+- 👨‍💻 Check out my portfolio: [bit.ly/3CxZohA](https://drive.google.com/file/d/19Ha7gB_OgSP7Vf7gqCW9_A4dfH9Ff_a8/view?usp=drive_link)
 
 - 📄 My CV: [bit.ly/414xC5G](https://drive.google.com/file/d/18kq0lQeaNy6xQ0JBFWts7k20NcEHa3LM/view?usp=drive_link)
 
