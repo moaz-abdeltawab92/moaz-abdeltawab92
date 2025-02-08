@@ -61,12 +61,12 @@
 <h3 align="left">🚀 Projects I've Worked On:</h3>
 <p align="left">
   <div>
-    <h4 align="left">• Doctor Hunt App</h4>
+    <h3 align="left">• Doctor Hunt App</h3>
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/172shots_so.png?raw=true" alt="Doctor Hunt App" width="600" />
   </div>
 
 <div>
-    <h4 align="left">• Notes App</h4>
+    <h3 align="left">• Notes App</h3>
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/1.png?raw=true" alt="Notes App" width="480" />
    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/2.png?raw=true" alt="Notes App" width="480" />
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/3.png?raw=true" alt="Notes App" width="480" />
@@ -74,22 +74,22 @@
 
   
   <div>
-    <h4 align="left">• News Cloud App</h4>
+    <h3 align="left">• News Cloud App</h3>
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/607shots_so.png?raw=true" alt="News Cloud App" width="600" />
   </div>
   
   <div>
-    <h4 align="left">• Responsive Auth Page</h4>
+    <h3 align="left">• Responsive Auth Page</h3>
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/253shots_so.png?raw=true" alt="Responsive Auth Page" width="600" />
   </div>
   
   <div>
-    <h4 align="left">• Toku App</h4>
+    <h3 align="left">• Toku App</h3>
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/417shots_so.png?raw=true" alt="Toku App" width="600" />
   </div>
   
   <div>
-    <h4 align="left">• Tasbih App</h4>
+    <h3 align="left">• Tasbih App</h3>
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/115shots_so.png?raw=true" alt="Tasbih App" width="600" />
   </div>
 </p>
