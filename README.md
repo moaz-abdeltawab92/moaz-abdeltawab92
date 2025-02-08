@@ -67,9 +67,9 @@
 
 <div>
     <h3 align="left">• Notes App</h3>
-    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/1.png?raw=true" alt="Notes App" width="480" />
-   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/2.png?raw=true" alt="Notes App" width="480" />
-    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/3.png?raw=true" alt="Notes App" width="480" />
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/1.png?raw=true" alt="Notes App" width="530" />
+   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/2.png?raw=true" alt="Notes App" width="530" />
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/3.png?raw=true" alt="Notes App" width="530" />
   </div>
 
   
