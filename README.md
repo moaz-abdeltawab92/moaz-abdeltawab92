@@ -20,6 +20,28 @@
 <a href="https://medium.com/https://medium.com/@moazayman128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@moazayman128" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/moazayman128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/moazayman128" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/codeforces.com/profile/moazayman129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces.com/profile/moazayman129" height="30" width="40" /></a>
+<h3 align="left">🚀 Projects I've Worked On:</h3>
+<p align="center">
+  <div>
+    <h4 align="center">Doctor Hunt App</h4>
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/115shots_so.png?raw=true" alt="Doctor Hunt App" width="200" />
+  </div>
+  <div>
+    <h4 align="center">News Cloud App</h4>
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/172shots_so.png?raw=true" alt="News Cloud App" width="200" />
+  </div>
+  <div>
+    <h4 align="center">Responsive Auth Page</h4>
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/253shots_so.png?raw=true" alt="Responsive Auth Page" width="200" />
+  </div>
+  <div>
+    <h4 align="center">Toku App</h4>
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/417shots_so.png?raw=true" alt="Toku App" width="200" />
+  </div>
+  <div>
+    <h4 align="center">Tasbih App</h4>
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/607shots_so.png?raw=true" alt="Tasbih App" width="200" />
+  </div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
