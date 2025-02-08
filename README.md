@@ -25,34 +25,6 @@
 
 <br/>
 
-<h3 align="left">🚀 Projects I've Worked On:</h3>
-<p align="left">
-  <div>
-    <h4 align="left">. Doctor Hunt App</h4>
-    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/172shots_so.png?raw=true" alt="Doctor Hunt App" width="400" />
-  </div>
-  
-  <div>
-    <h4 align="left">. News Cloud App</h4>
-    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/607shots_so.png?raw=true" alt="News Cloud App" width="400" />
-  </div>
-  
-  <div>
-    <h4 align="left">. Responsive Auth Page</h4>
-    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/253shots_so.png?raw=true" alt="Responsive Auth Page" width="400" />
-  </div>
-  
-  <div>
-    <h4 align="left">. Toku App</h4>
-    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/417shots_so.png?raw=true" alt="Toku App" width="400" />
-  </div>
-  
-  <div>
-    <h4 align="left">. Tasbih App</h4>
-    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/115shots_so.png?raw=true" alt="Tasbih App" width="400" />
-  </div>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -79,4 +51,32 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> 
+</p>
+
+<h3 align="left">🚀 Projects I've Worked On:</h3>
+<p align="left">
+  <div>
+    <h4 align="left">. Doctor Hunt App</h4>
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/172shots_so.png?raw=true" alt="Doctor Hunt App" width="400" />
+  </div>
+  
+  <div>
+    <h4 align="left">. News Cloud App</h4>
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/607shots_so.png?raw=true" alt="News Cloud App" width="400" />
+  </div>
+  
+  <div>
+    <h4 align="left">. Responsive Auth Page</h4>
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/253shots_so.png?raw=true" alt="Responsive Auth Page" width="400" />
+  </div>
+  
+  <div>
+    <h4 align="left">. Toku App</h4>
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/417shots_so.png?raw=true" alt="Toku App" width="400" />
+  </div>
+  
+  <div>
+    <h4 align="left">. Tasbih App</h4>
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/115shots_so.png?raw=true" alt="Tasbih App" width="400" />
+  </div>
 </p>
