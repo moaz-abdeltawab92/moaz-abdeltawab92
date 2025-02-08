@@ -1,25 +1,30 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Moaz Ayman</h1>
-<h3 align="center">A flutter developer from Egypt</h3>
+<h2 align="center">Software Engineer | Flutter Developer</h2>
+<h3 align="center">I specialize in Flutter development and am continuously growing my skills in building mobile applications. I also have foundational knowledge in Android development using Java and Kotlin. I’m passionate about creating clean, efficient, and user-friendly applications while exploring innovative solutions in the mobile development field.</h3>
+- 🔭 I’m currently working on [Doctor Hunt app](https://github.com/moaz-abdeltawab92/Doctor-Hunt-App.git)
 
+- 🌱 I’m currently learning **Android Native Development with Java & Kotlin**
 
+- 👨‍💻 Check out my portfolio: [https://drive.google.com/file/d/19Ha7gB_OgSP7Vf7gqCW9_A4dfH9Ff_a8/view?usp=drive_link](https://drive.google.com/file/d/19Ha7gB_OgSP7Vf7gqCW9_A4dfH9Ff_a8/view?usp=drive_link)
 
+- 💬 Ask me about **Flutter , dart , java , Kotlin**
 
-- 💬 Ask me about **flutter , dart , java**
-- 📫 How to reach me **moazayman128@gmail.com **
+- 📫 How to reach me **moazayman128@gmail.com**
 
-<div> <a href="https://www.linkedin.com/in/moaz-abdeltawab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/moaz-abdeltawab92
-" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:moazayman128@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+- 📄 My Cv: [https://drive.google.com/file/d/18kq0lQeaNy6xQ0JBFWts7k20NcEHa3LM/view?usp=drive_link](https://drive.google.com/file/d/18kq0lQeaNy6xQ0JBFWts7k20NcEHa3LM/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/moaz-abdeltawab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="ali-abdelmoaty10/" height="30" width="40" /></a><a src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="aliabdelmoaty/" height="30" width="40" /></a></p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<a href="https://linkedin.com/in/www.linkedin.com/in/moaz-abdeltawab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/moaz-abdeltawab" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/28806238/moaz-ayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/28806238/moaz-ayman" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@moazayman128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@moazayman128" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/moazayman128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/moazayman128" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/codeforces.com/profile/moazayman129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces.com/profile/moazayman129" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moaz-abdeltawab92&show_icons=true&locale=en&layout=compact" alt="moaz-abdeltawab92" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moaz-abdeltawab92&show_icons=true&locale=en" alt="moaz-abdeltawab92" /></p>
