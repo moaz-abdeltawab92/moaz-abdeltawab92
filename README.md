@@ -62,7 +62,7 @@
 <p align="left">
   <div>
     <h4 align="left">• Doctor Hunt App</h4>
-    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/172shots_so.png?raw=true" alt="Doctor Hunt App" width="400" />
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/172shots_so.png?raw=true" alt="Doctor Hunt App" width="600" />
   </div>
 
 <div>
