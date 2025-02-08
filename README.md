@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moaz Ayman</h1>
 <h3 align="center">Software Engineer | Flutter Developer</h3>
 <h4 align="center">I specialize in Flutter development and am continuously growing my skills in building mobile applications. I also have foundational knowledge in Android development using Java and Kotlin. I’m passionate about creating clean, efficient, and user-friendly applications while exploring innovative solutions in the mobile development field.</h4>
-- 🔭 I’m currently working on [Doctor Hunt app](https://github.com/moaz-abdeltawab92/Doctor-Hunt-App.git)
+- 🔭 I’m currently working on Doctor Hunt app (https://github.com/moaz-abdeltawab92/Doctor-Hunt-App.git)
 
 - 🌱 I’m currently learning **Android Native Development with Java & Kotlin**
 
@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **moazayman128@gmail.com**
 
-- 👨‍💻 Check out my portfolio: [https://drive.google.com/file/d/19Ha7gB_OgSP7Vf7gqCW9_A4dfH9Ff_a8/view?usp=drive_link](https://drive.google.com/file/d/19Ha7gB_OgSP7Vf7gqCW9_A4dfH9Ff_a8/view?usp=drive_link)
+- 👨‍💻 Check out my portfolio: [https://drive.google.com/file/d/19Ha7gB_OgSP7Vf7gqCW9_A4dfH9Ff_a8/view?usp=drive_link](bit.ly/3CxZohA)
 
-- 📄 My Cv: [https://drive.google.com/file/d/18kq0lQeaNy6xQ0JBFWts7k20NcEHa3LM/view?usp=drive_link](https://drive.google.com/file/d/18kq0lQeaNy6xQ0JBFWts7k20NcEHa3LM/view?usp=drive_link)
+- 📄 My Cv: [https://drive.google.com/file/d/18kq0lQeaNy6xQ0JBFWts7k20NcEHa3LM/view?usp=drive_link](bit.ly/414xC5G)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
