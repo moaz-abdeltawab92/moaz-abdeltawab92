@@ -64,6 +64,14 @@
     <h4 align="left">• Doctor Hunt App</h4>
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/172shots_so.png?raw=true" alt="Doctor Hunt App" width="400" />
   </div>
+
+<div>
+    <h4 align="left">• Notes App</h4>
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/1.png?raw=true" alt="Notes App" width="400" />
+   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/2.png?raw=true" alt="Notes App" width="400" />
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/3.png?raw=true" alt="Notes App" width="400" />
+  </div>
+
   
   <div>
     <h4 align="left">• News Cloud App</h4>
