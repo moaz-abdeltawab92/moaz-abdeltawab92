@@ -60,6 +60,12 @@
 
 <h3 align="left">🚀 Projects I've Worked On:</h3>
 <p align="left">
+   <div>
+    <h3 align="left">• Tazkira App</h3>
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t1.png?raw=true" alt="Tazkira App" width="600" />
+     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t2.png?raw=true" alt="Tazkira App" width="600" />
+     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t3.png?raw=true" alt="Tazkira App" width="600" />
+  </div>
   <div>
     <h3 align="left">• Doctor Hunt App</h3>
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/172shots_so.png?raw=true" alt="Doctor Hunt App" width="600" />
@@ -88,8 +94,4 @@
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/417shots_so.png?raw=true" alt="Toku App" width="600" />
   </div>
   
-  <div>
-    <h3 align="left">• Tasbih App</h3>
-    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/115shots_so.png?raw=true" alt="Tasbih App" width="600" />
-  </div>
 </p>
