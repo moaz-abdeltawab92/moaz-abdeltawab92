@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Flutter Developer</h3>
 <h4 align="center">I specialize in Flutter development and am continuously growing my skills in building mobile applications. I also have foundational knowledge in Android Native development using Java and Kotlin.</h4>
 
-- 🔭 I’m currently working on Doctor Hunt app (https://github.com/moaz-abdeltawab92/Doctor-Hunt-App.git)
+- 🔭 I’m currently working on Doctor Hunt App and Tazkira App.
 
 - 🌱 I’m currently learning **Android Native Development with Java & Kotlin**
 
