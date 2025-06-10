@@ -13,7 +13,7 @@
 
 - 👨‍💻 Check out my portfolio: https://poortfoliowebsite.netlify.app/
 
-- 📄 My CV: [Click here to view my CV](https://drive.google.com/file/d/18yjb_sHzTVQH8NnZ62KgYAfq4PJQqKTt/view?usp=sharing)
+- 📄 My CV: [Click here to view my CV](https://drive.google.com/file/d/1cGqfzVihAGwYgb9ya8HLDx0_RcziPhdA/view?usp=sharing)
 
 ---
 
