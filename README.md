@@ -73,7 +73,7 @@
 </div>
 
    <div>
-    <h2 align="left">• Tazkira App</h2>
+    <h2 align="left">• Tazkira Islamic App</h2>
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t1.png?raw=true" alt="Tazkira App" width="600" />
      <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t2.png?raw=true" alt="Tazkira App" width="600" />
      <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t3.png?raw=true" alt="Tazkira App" width="600" />
