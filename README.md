@@ -66,10 +66,10 @@
   </h2>
 
   <h3 align="left" style="margin-left: 20px;"> Cashier App</h3>
-  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/casheir.png?raw=true" alt="Panda POS - Cashier App" width="600" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/casheir.png?raw=true" alt="Panda POS - Cashier App" width="800" />
 
   <h3 align="left" style="margin-left: 20px;"> Admin App</h3>
-  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/poss.png?raw=true" alt="Panda POS - Admin App" width="600" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/poss.png?raw=true" alt="Panda POS - Admin App" width="800" />
 </div>
 
    <div>
