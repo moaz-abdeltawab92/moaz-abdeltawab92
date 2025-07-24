@@ -60,6 +60,16 @@
 
 <h3 align="left">🚀 Projects I've Worked On:</h3>
 <p align="left">
+<div>
+  <h2 align="left">• Panda POS</h2>
+
+  <h3 align="left" style="margin-left: 20px;"> Cashier App</h3>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/casheir.png?raw=true" alt="Panda POS - Cashier App" width="600" />
+
+  <h3 align="left" style="margin-left: 20px;"> Admin App</h3>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/poss.png?raw=true" alt="Panda POS - Admin App" width="600" />
+</div>
+
    <div>
     <h2 align="left">• Tazkira App</h2>
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t1.png?raw=true" alt="Tazkira App" width="600" />
