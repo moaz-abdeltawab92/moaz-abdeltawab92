@@ -72,12 +72,18 @@
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/poss.png?raw=true" alt="Panda POS - Admin App" width="800" />
 </div>
 
-   <div>
-    <h2 align="left">• Tazkira Islamic App</h2>
-    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t1.png?raw=true" alt="Tazkira App" width="600" />
-     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t2.png?raw=true" alt="Tazkira App" width="600" />
-     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t3.png?raw=true" alt="Tazkira App" width="600" />
-  </div>
+ <div>
+  <h2 align="left">• Tazkira Islamic App</h2>
+  <p align="left">
+    <a href="https://play.google.com/store/apps/details?id=com.moaz.tazkira" target="_blank">
+       Download now on Google Play
+    </a>
+  </p>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t1.png?raw=true" alt="Tazkira App" width="600" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t2.png?raw=true" alt="Tazkira App" width="600" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t3.png?raw=true" alt="Tazkira App" width="600" />
+</div>
+
   <div>
     <h2 align="left">• Doctor Hunt App</h2>
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/172shots_so.png?raw=true" alt="Doctor Hunt App" width="600" />
