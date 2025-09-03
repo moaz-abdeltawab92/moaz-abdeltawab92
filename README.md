@@ -62,18 +62,6 @@
 
 
 <h3 align="left">🚀 Projects I've Worked On:</h3>
-<p align="left">
-<div>
- <h2 align="left">
-    • <a href="https://pandapos.netlify.app/" target="_blank">Panda POS</a>
-  </h2>
-
-  <h3 align="left" style="margin-left: 20px;"> Cashier App</h3>
-  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/casheir.png?raw=true" alt="Panda POS - Cashier App" width="800" />
-
-  <h3 align="left" style="margin-left: 20px;"> Admin App</h3>
-  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/poss.png?raw=true" alt="Panda POS - Admin App" width="800" />
-</div>
 
  <div>
   <h2 align="left">• Tazkira Islamic App</h2>
@@ -85,6 +73,38 @@
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t1.png?raw=true" alt="Tazkira App" width="600" />
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t2.png?raw=true" alt="Tazkira App" width="600" />
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t3.png?raw=true" alt="Tazkira App" width="600" />
+</div>
+<p align="left">
+<div>
+  <h2 align="left">• ITI Learning Platform</h2>
+  <p align="left">
+    <a href="https://itiwebview.netlify.app/" target="_blank">
+       Download the App now 
+    </a>
+  </p>
+
+  <h3 align="left" style="margin-left: 20px;"> Student View</h3>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/st1.png?raw=true" alt="ITI Learning Platform - Student View" width="800" />
+
+  <h3 align="left" style="margin-left: 20px;"> Student View</h3>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/st2.png?raw=true" alt="ITI Learning Platform - Student View" width="800" />
+  <h3 align="left" style="margin-left: 20px;"> Student View</h3>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/st3.png?raw=true" alt="ITI Learning Platform - Student View" width="800" />
+  <h3 align="left" style="margin-left: 20px;"> Admin View</h3>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/adminview.png?raw=true" alt="ITI Learning Platform - Admin View" width="800" />
+  <h3 align="left" style="margin-left: 20px;"> Manager View</h3>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/mangerview.png?raw=true" alt="ITI Learning Platform - Manager View" width="800" />
+  <div>
+<div>
+ <h2 align="left">
+    • <a href="https://pandapos.netlify.app/" target="_blank">Panda POS</a>
+  </h2>
+
+  <h3 align="left" style="margin-left: 20px;"> Cashier App</h3>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/casheir.png?raw=true" alt="Panda POS - Cashier App" width="800" />
+
+  <h3 align="left" style="margin-left: 20px;"> Admin App</h3>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/poss.png?raw=true" alt="Panda POS - Admin App" width="800" />
 </div>
 
   <div>
