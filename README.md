@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Flutter Developer</h3>
 <h4 align="center">I specialize in Flutter development and am continuously growing my skills in building mobile applications. I also have foundational knowledge in Android Native development using Java and Kotlin.</h4>
 
-🔭 I’m currently working on the Takka App and a POS (Restaurant Management System).
+- 🔭 I’m currently working on Takka App.
 
 - 🌱 I’m currently learning **Android Native Development with Java & Kotlin**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 Check out my portfolio: https://poortfoliowebsite.netlify.app/
 
-- 📄 My CV: [Click here to view my CV](https://drive.google.com/file/d/1cGqfzVihAGwYgb9ya8HLDx0_RcziPhdA/view?usp=sharing)
+- 📄 My CV: [Click here to view my CV](https://drive.google.com/file/d/1Kts--nmVfHlq4cZ4Ahz3MfdBiGmFNrAc/view?usp=drive_link)
 
 ---
 
