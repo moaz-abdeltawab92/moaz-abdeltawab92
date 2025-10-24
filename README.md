@@ -73,6 +73,24 @@
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t1.png?raw=true" alt="Tazkira App" width="600" />
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t2.png?raw=true" alt="Tazkira App" width="600" />
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t3.png?raw=true" alt="Tazkira App" width="600" />
+
+   </div>
+<p align="left">
+<div>
+  <h2 align="left">• Takka App</h2>
+  
+  <h3 align="left" style="margin-left: 20px;"> Login & Home & Customer Service</h3>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/login.png?raw=true" alt="Takka App - Login & Home & Customer Service" width="800" />
+
+  <h3 align="left" style="margin-left: 20px;"> Dashboard</h3>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/dashboard.png?raw=true" alt="Takka App - Dashboard" width="800" />
+  <h3 align="left" style="margin-left: 20px;">  Social Media</h3>
+   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/social.png?raw=true" alt="Takka App -  Social Media" width="800" />
+  <h3 align="left" style="margin-left: 20px;">  Personal Information & Menu Settings  </h3>
+   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/info.png?raw=true" alt="Takka App -  Personal Information & Menu Settings" width="800" />
+  <div>
+<div>
+  
 </div>
 <p align="left">
 <div>
