@@ -70,9 +70,10 @@
        Download now on Google Play
     </a>
   </p>
-  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t1.png?raw=true" alt="Tazkira App" width="600" />
-  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t2.png?raw=true" alt="Tazkira App" width="600" />
-  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t3.png?raw=true" alt="Tazkira App" width="600" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t1.png?raw=true" alt="Tazkira App" width="800" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t2.png?raw=true" alt="Tazkira App" width="800" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t3.png?raw=true" alt="Tazkira App" width="800" />
+   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t4.png?raw=true" alt="Tazkira App" width="800" />
 
    </div>
 <p align="left">
