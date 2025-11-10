@@ -155,3 +155,8 @@
   </div>
   
 </p>
+<h3 align="center"> Watch my contributions get eaten by a snake 🐍</h3>
+
+<p align="center">
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/output/snake.svg" alt="Snake animation" />
+</p>
