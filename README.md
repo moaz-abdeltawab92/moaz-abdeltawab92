@@ -156,7 +156,10 @@
   
 </p>
 <h3 align="center"> Watch my contributions get eaten by a snake 🐍</h3>
-
 <p align="center">
-  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moaz-abdeltawab92/moaz-abdeltawab92/output/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moaz-abdeltawab92/moaz-abdeltawab92/output/snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/moaz-abdeltawab92/moaz-abdeltawab92/output/snake.svg">
+  </picture>
 </p>
