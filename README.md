@@ -152,12 +152,10 @@
     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/253shots_so.png?raw=true" alt="Responsive Auth Page" width="600" />
   </div>
   
-  <div>
-    <h2 align="left">• Toku App</h2>
-    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/417shots_so.png?raw=true" alt="Toku App" width="600" />
-  </div>
   
 </p>
 <p align="center">
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/output/snake-dark.svg" alt="Snake animation" />
 </p>
+
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/365419075-916aad76-a56d-4e72-a2de-5f70d5ecde93.png?raw=true" width="800" />
