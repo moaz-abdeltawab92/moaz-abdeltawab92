@@ -82,6 +82,17 @@
 <p align="left">
 <div>
   <h2 align="left">• Takka App</h2>
+ <p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.takkasmart.eats" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55"/>
+  </a>
+  
+  <a href="https://apps.apple.com/us/app/%D8%AA%D9%83%D8%A9-takka-smart/id6756178095" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="65"/>
+  </a>
+</p>
+
+
   
   <h3 align="left" style="margin-left: 20px;"> Login & Home & Customer Service</h3>
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/login.png?raw=true" alt="Takka App - Login & Home & Customer Service" width="800" />
