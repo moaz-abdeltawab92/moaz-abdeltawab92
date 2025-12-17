@@ -68,11 +68,11 @@
 
  <div>
   <h2 align="left">• Tazkira Islamic App</h2>
-  <p align="left">
-    <a href="https://play.google.com/store/apps/details?id=com.moaz.tazkira" target="_blank">
-       Download now on Google Play
-    </a>
-  </p>
+   <p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.moaz.tazkira" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55"/>
+  </a>
+</p>
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t1.png?raw=true" alt="Tazkira App" width="800" />
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t2.png?raw=true" alt="Tazkira App" width="800" />
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t3.png?raw=true" alt="Tazkira App" width="800" />
