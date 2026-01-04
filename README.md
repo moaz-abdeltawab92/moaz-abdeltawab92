@@ -73,10 +73,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55"/>
   </a>
 </p>
-  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t1.png?raw=true" alt="Tazkira App" width="800" />
-  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t2.png?raw=true" alt="Tazkira App" width="800" />
-  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t3.png?raw=true" alt="Tazkira App" width="800" />
-   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/t4.png?raw=true" alt="Tazkira App" width="800" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/40.png?raw=true" alt="Tazkira App" width="800" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/41.png?raw=true" alt="Tazkira App" width="800" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/42.png?raw=true" alt="Tazkira App" width="800" />
+   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/43.png?raw=true" alt="Tazkira App" width="800" />
+    <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/44.png?raw=true" alt="Tazkira App" width="800" />
+     <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/45.png?raw=true" alt="Tazkira App" width="800" />
 
    </div>
 <p align="left">
