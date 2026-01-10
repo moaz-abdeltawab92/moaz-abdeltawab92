@@ -54,6 +54,9 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
 </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21~bgwhite.svg" alt="jira" width="80" height="80"/> 
+</a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> 
@@ -67,7 +70,7 @@
 <h3 align="left">🚀 Projects I've Worked On:</h3>
 
  <div>
-  <h2 align="left">• Tazkira Islamic App</h2>
+  <h2 align="left">•Tazkira Islamic App || تَذْكِرَة – رفيق المسلم اليومي </h2>
    <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.moaz.tazkira" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55"/>
@@ -83,7 +86,7 @@
    </div>
 <p align="left">
 <div>
-  <h2 align="left">• Takka App</h2>
+  <h2 align="left">• Takka Smart - تكة </h2>
  <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.takkasmart.eats" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55"/>
