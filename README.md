@@ -87,6 +87,17 @@
      <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/45.png?raw=true" alt="Tazkira App" width="800" />
 
    </div>
+    <div>
+  <h2 align="left">• حلاقك لحد بيتك </h2>
+   <p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.moaz.halaak" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55"/>
+
+</p>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/حلاقك 1.png?raw=true" alt="حلاقك App" width="800" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/حلاقك 2.png?raw=true" alt="حلاقك App" width="800" />
+
+   </div>
 <p align="left">
 <div>
   <h2 align="left">• Takka Smart - تكة </h2>
