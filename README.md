@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Flutter Developer</h3>
 <h4 align="center">I specialize in Flutter development and am continuously growing my skills in building mobile applications. I also have foundational knowledge in Android Native development using Java and Kotlin.</h4>
 
-- 🔭 I’m currently working on sa3a App.
+- 🔭 I’m currently working on sa3a App and khalik makanak.
 
 - 🌱 I’m currently learning **Android Native Development with Java & Kotlin**
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **moazayman128@gmail.com**
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1XB_Zu2aJMPmc04M-0LupT42IfGPvFsKE/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1jydvWSRc8eCpmVpQ3z8chvCkh7WKd50n/view?usp=drive_link">
     <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
   <a href="https://moaz-portfolio-mu.vercel.app/">
     <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
