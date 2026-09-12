@@ -48,6 +48,34 @@
 <h3 align="left">🚀 Projects I've Worked On:</h3>
 
  <div>
+  <h2 align="left">• sa3a App ||  ساعة </h2>
+   <p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.moaz.sa3a" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55"/>
+  </a>
+  <a href="https://apps.apple.com/us/app/sa3a/id6806839459" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="65"/>
+  </a>
+</p>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/s3a1.png?raw=true" alt="sa3a App" width="800" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/sa3a2.png?raw=true" alt="sa3a App" width="800" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/sa3a3.png?raw=true" alt="sa3a App" width="800" />
+ </div>
+
+ <div>
+  <h2 align="left">• Khalik Makanak App ||  خليك مكانك </h2>
+   <p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.moaz.khalik.makanak" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55"/>
+  </a>
+</p>
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/kh1.png?raw=true" alt="Khalik Makanak App" width="800" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/kh2.png?raw=true" alt="Khalik Makanak App" width="800" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/kh3.png?raw=true" alt="Khalik Makanak App" width="800" />
+  <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/kh4.png?raw=true" alt="Khalik Makanak App" width="800" />
+ </div>
+
+ <div>
   <h2 align="left">•Tazkira Islamic App || تَذْكِرَة – رفيق المسلم اليومي </h2>
    <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.moaz.tazkira" target="_blank">
