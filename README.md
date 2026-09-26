@@ -68,6 +68,9 @@
   <a href="https://play.google.com/store/apps/details?id=com.moaz.khalik.makanak" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55"/>
   </a>
+     <a href="https://apps.apple.com/us/app/%D8%AE%D9%84%D9%8A%D9%83-%D9%85%D9%83%D8%A7%D9%86%D9%83/id6810070733" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="65"/>
+  </a>
 </p>
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/kh1.png?raw=true" alt="Khalik Makanak App" width="800" />
   <img src="https://github.com/moaz-abdeltawab92/moaz-abdeltawab92/blob/main/kh2.png?raw=true" alt="Khalik Makanak App" width="800" />
