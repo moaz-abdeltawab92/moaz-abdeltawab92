@@ -12,7 +12,7 @@
 - 📫 How to reach me **moazayman128@gmail.com**
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1jydvWSRc8eCpmVpQ3z8chvCkh7WKd50n/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/12oFX_zLelgxOrphMoq2oCiQyDbW-b71-/view?usp=sharing">
     <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
   <a href="https://moaz-portfolio-mu.vercel.app/">
     <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
