@@ -158,7 +158,7 @@
   <div>
 <div>
  <h2 align="left">
-    • <a href="https://pandapos.netlify.app/" target="_blank">Panda POS</a>
+    • <a href="https://panda-pos-system.vercel.app/" target="_blank">Panda POS</a>
   </h2>
 
   <h3 align="left" style="margin-left: 20px;"> Cashier App</h3>
